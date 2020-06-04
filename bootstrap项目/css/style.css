@@ -1,0 +1,45 @@
+html{
+	font-size: 10px;
+}
+@media only screen and (min-width: 371px){
+	html {font-size: 14px !important;}
+  }
+@media only screen and (min-width: 541px){
+  html {font-size: 15px !important;}
+}
+@media only screen and (min-width: 768px){
+  html {font-size: 16px !important;}
+}
+@media only screen and (min-width: 992px){
+  html {font-size: 17px !important;}
+}
+#sy{
+	margin-top: 60px;
+}
+.sp1{
+	font-size: .8rem;
+}
+.sp2{
+	font-size: 1.8rem;
+}
+.p1{
+	font-size: .8rem;
+}
+.p2{
+	font-size: .8rem;
+}
+.pic1{
+	width: 9%;
+}
+.pic2{
+	width: 25%;
+}
+.pic3{
+	width: 100%;
+}
+#lt .col-4:hover{
+	background: lightgray;
+}
+.btn1:hover{
+	background: green;
+}
