@@ -1,0 +1,44 @@
+{
+  "id": "1693220",
+  "name": "myproject",
+  "font_family": "iconfont",
+  "css_prefix_text": "",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2742687",
+      "name": "座机",
+      "font_class": "zuoji1",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "4074916",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "5277560",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e73f",
+      "unicode_decimal": 59199
+    },
+    {
+      "icon_id": "8836424",
+      "name": "小房子",
+      "font_class": "house",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "11898125",
+      "name": "纸飞机",
+      "font_class": "zhifeiji",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    }
+  ]
+}
